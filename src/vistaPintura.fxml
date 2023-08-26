@@ -1,0 +1,1 @@
+<Button fx:id="eraseButton" text="Borrar" onAction="#handleEraseAction"/>
